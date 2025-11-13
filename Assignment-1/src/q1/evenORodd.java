@@ -1,6 +1,8 @@
 package q1;
 import java.io.*;
 
+
+
 public class evenORodd {
     public static void main(String[] args)throws IOException {
 
